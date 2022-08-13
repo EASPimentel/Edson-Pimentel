@@ -1,14 +1,14 @@
-# Olá, me chamo _*Edson Pimentel*_, seja bem vindo ao meu GitHub!👋
+# Olá, me chamo _*Edson Pimentel*_!👋
 
 #### Moro no Espirito Santo e Curso Ciências da Computação na Universidade de Vila Velha (UVV). Estou interessado e focado em desenvolvimento Front-end e Mobile. 
 
 ### Minhas Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/betynh07/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edson.pimentel7/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-pimentel/)
 
 
-![betynh0's GitHub stats](https://github-readme-stats.vercel.app/api?username=betynh0&theme=blue-green)
-![betynh0's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=betynh0&theme=blue-green)
+![betynh0's GitHub stats](https://github-readme-stats.vercel.app/api?username=EASPimentel&theme=blue-green)
+![betynh0's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EASPimentel&theme=blue-green)
 
 
 ## Minhas linguagens:
@@ -28,7 +28,8 @@
 
 ## Contato:
 - edsonpimentel7@gmail.com
+- (27) 99522-8567
 <!---
-betynh0/betynh0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EASPimentel/betynh0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
